@@ -1,6 +1,5 @@
 /*****************************************************************************************************
 Program: Assignment 3
-Date: 6/28/2013
 Name: James E. Hearn
 Description: This is the Rectangle header file. This is to be included with Circle.h, 
 			Point.h, Square.h, and FigureGeometry.h.

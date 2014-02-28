@@ -1,6 +1,5 @@
 /*****************************************************************************************************
-Program: Assignment 3
-Date: 6/28/2013
+Program: Figure Geometry
 Name: James E. Hearn
 Description: This is the Square header file. This is to be included with Circle.h, 
 			Point.h, Rectangle.h, and FigureGeometry.h.

@@ -1,7 +1,6 @@
 /******************************************************************************************************************
 Program: Assignment 1
 Programmer: James E. Hearn
-Date: 6/20/2013
 Description: This is the Employee header file for Assignment 1 program, compiled with the Employee.cpp file.
 			This header contains a defualt contructor, a constructor with three parameters, a getName function,
 			a getAddress function, a getSSn function, a print function, and three private instance 

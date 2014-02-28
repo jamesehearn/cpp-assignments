@@ -1,6 +1,5 @@
 /*****************************************************************************************************
-Program: Assignment 3
-Date: 6/28/2013
+Program: Figure Geometry
 Name: James E. Hearn
 Description: This is the Circle header file. This is to be included with FigureGeometry.h, 
 			Point.h, Square.h, and Rectangle.h.
@@ -9,8 +8,6 @@ Description: This is the Circle header file. This is to be included with FigureG
 #define CIRCLE_H_
 
 #include "FigureGeometry.h"
-//#include <string>
-//#include <algorithm>
 
 /** Declaration of the abstract class Circle. */ 
 class Circle : public FigureGeometry {

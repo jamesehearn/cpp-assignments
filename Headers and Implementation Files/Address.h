@@ -1,7 +1,6 @@
 /******************************************************************************************************************
 Program: Assignment 1
 Programmer: James E. Hearn
-Date: 6/20/2013
 Description: This is the Address header file for Assignment 1 program, compiled with the Employee.cpp file.
 			This header contains a default contructor, a getCity function, a getState function, 
 			a getStreet function, a getZip function, a print function, and four private string instance variables 

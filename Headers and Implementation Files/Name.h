@@ -1,7 +1,6 @@
 /******************************************************************************************************************
 Program: Assignment 1
 Programmer: James E. Hearn
-Date: 6/20/2013
 Description: This is the Name header file for Assignment 1 program, compiled with the Employee.cpp file.
 			This header contains a default constructor, a getFirstlast function, a print function, and
 			three private string variables for first name, middle name, and last name.

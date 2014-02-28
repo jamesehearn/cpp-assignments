@@ -1,7 +1,6 @@
 /******************************************************************************************************************
-Program: Assignment 1
+Program: Employee Information
 Programmer: James E. Hearn
-Date: 6/20/2013
 Description: This is the Employee.cpp implementation file for Assignent 1.
 ******************************************************************************************************************/
 #include "Employee.h"
